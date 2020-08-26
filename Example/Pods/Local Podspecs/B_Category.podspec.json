@@ -1,0 +1,29 @@
+{
+  "name": "B_Category",
+  "version": "0.1.0",
+  "summary": "B module category.",
+  "description": "B module category, convenient to use B module",
+  "homepage": "https://github.com/TouchFriend/B_Category",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cxz": "1604101058@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/TouchFriend/B_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "B_Category/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

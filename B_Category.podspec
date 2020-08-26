@@ -34,7 +34,7 @@ B module category, convenient to use B module
   #   'B_Category' => ['B_Category/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'B_Category/Classes/**/*.h'
   s.frameworks = 'UIKit'
   s.dependency 'CTMediator'
 end
